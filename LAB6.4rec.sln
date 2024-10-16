@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LAB6.4rec", "LAB6.4rec.vcxproj", "{31AB62BE-C251-4659-A1D0-D54F3CD21150}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest6.4rec", "..\UnitTest6.4rec\UnitTest6.4rec.vcxproj", "{0F795826-2F2E-41C8-812D-3621297CB56C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Debug|x64.ActiveCfg = Debug|x64
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Debug|x64.Build.0 = Debug|x64
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Debug|x86.ActiveCfg = Debug|Win32
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Debug|x86.Build.0 = Debug|Win32
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Release|x64.ActiveCfg = Release|x64
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Release|x64.Build.0 = Release|x64
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Release|x86.ActiveCfg = Release|Win32
+		{31AB62BE-C251-4659-A1D0-D54F3CD21150}.Release|x86.Build.0 = Release|Win32
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Debug|x64.ActiveCfg = Debug|x64
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Debug|x64.Build.0 = Debug|x64
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Debug|x86.Build.0 = Debug|Win32
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Release|x64.ActiveCfg = Release|x64
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Release|x64.Build.0 = Release|x64
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Release|x86.ActiveCfg = Release|Win32
+		{0F795826-2F2E-41C8-812D-3621297CB56C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF833E1-E0DA-4FA5-8988-A85B6C68C432}
+	EndGlobalSection
+EndGlobal
